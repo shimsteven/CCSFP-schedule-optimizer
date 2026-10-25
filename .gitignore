@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# PyInstaller
+build/
+dist/
+*.spec
+
+# Editor / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Your own data (keep sample exports out of the repo)
+schedule_project.json
+schedules.xlsx
+schedules.csv
+class_schedules.csv
